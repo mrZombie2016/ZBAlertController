@@ -1,2 +1,2 @@
 # ZBAlertController
-UIAlertController's encapsulation
+UIAlertController的封装
